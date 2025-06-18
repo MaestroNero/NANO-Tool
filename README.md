@@ -57,7 +57,7 @@ chmod +x setup.sh
 Launch the tool:
 
 ```bash
-python3 nano.py
+python3 NanoTool.py
 ```
 
 Choose the scan level and target interactively via the menu.
