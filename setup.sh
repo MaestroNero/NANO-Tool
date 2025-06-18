@@ -17,5 +17,5 @@ echo -e "\n💡 Use '--break-system-packages' only if you're not using a virtual
 echo -e "   This ensures compatibility with Kali Linux and similar systems."
 
 echo -e "\n🎉 Setup complete!"
-echo -e "💻 You can now run the tool with: python3 nano.py\n"
+echo -e "💻 You can now run the tool with: python3 NanoTool.py\n"
 
