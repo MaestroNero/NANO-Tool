@@ -1,5 +1,3 @@
-
-```markdown
 # 🛡️ NANO TOOL
 
 ```
@@ -9,6 +7,7 @@
 ██║╚██╗██║██╔══██║██║╚██╗██║██║   ██║       ██║   ██║   ██║██║   ██║██║  
 ██║ ╚████║██║  ██║██║ ╚████║╚██████╔╝       ██║   ╚██████╔╝╚██████╔╝██║  
 ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝        ╚═╝    ╚═════╝  ╚═════╝ ╚═╝  
+```
 
 ---
 
@@ -40,8 +39,8 @@ Provides multi-level scans, live status feedback, and JSON/tabular output for ad
 Clone the tool:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/NanoTool.git
-cd NanoTool
+git clone https://github.com/MaestroNero/NANO-Tool.git
+cd NANO-Tool
 ```
 
 Install it:
@@ -73,4 +72,3 @@ Telegram: [@CYBER_Nero](https://t.me/CYBER_Nero)
 ---
 
 > Feel free to fork, improve, or contribute!
-```
